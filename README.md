@@ -94,9 +94,7 @@ stack = {
      YOUR_VERCEL_APP below with your actual deployment URL.
      ============================================================ -->
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false&bar_color=00ff87&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
-
-> **Setup:** go to [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com), log in with Spotify, grab your embed link, replace `YOUR_SPOTIFY_USER_ID` above with yours.
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jjlryu7fvcwu43xxg73o26i6sq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false&bar_color=00ff87&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jjlryu7fvcwu43xxg73o26i6sq&redirect=true)
 
 <br>
 
