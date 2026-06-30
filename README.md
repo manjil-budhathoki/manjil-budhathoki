@@ -18,10 +18,10 @@ manjil@kathmandu:~$ whoami
 
 <br>
 
-**today's log** &nbsp;·&nbsp; Jun 29
+**today's log** &nbsp;·&nbsp; Jun 30
 
-- 🔨 fighting cloudflare on the nepsealpha scraper
-- 🧠 reading up on RAGAS eval metrics
+- 🔨 Implement a function tensor_parallel_allreduce_cost that computes the communication cost analysis for tensor-parallel training/inference of a transformer model.
+- 🧠 reading up on RAG.
 
 <br>
 
