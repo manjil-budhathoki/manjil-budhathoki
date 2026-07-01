@@ -18,9 +18,9 @@ manjil@kathmandu:~$ whoami
 
 <br>
 
-**today's log** &nbsp;·&nbsp; Jun 30
+**today's log** &nbsp;·&nbsp; Jul 1
 
-- 🔨 Implement a function tensor_parallel_allreduce_cost that computes the communication cost analysis for tensor-parallel training/inference of a transformer model.
+- 🔨 Implement SwiGLU activation function
 - 🧠 reading up on RAG.
 
 <br>
