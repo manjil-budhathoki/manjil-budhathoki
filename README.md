@@ -20,7 +20,7 @@ manjil@kathmandu:~$ whoami
 
 **today's log** &nbsp;·&nbsp; Jul 1
 
-- 🔨 Implement SwiGLU activation function
+- 🔨 PyTorch: Build a Complete Training Loop
 - 🧠 reading up on RAG.
 
 <br>
