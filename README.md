@@ -1,40 +1,55 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00ff87&height=120&section=header&text=manjil%20budhathoki&fontSize=32&fontColor=0d1117&fontAlignY=65&animation=fadeIn)
+<h1 align="center">Hi, I'm Manjil 👋</h1>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF87&center=true&vCenter=true&width=500&lines=ML+Engineer+·+Backend+Builder;shipping+from+Kathmandu%2C+Nepal+🇳🇵;turning+NEPSE+data+into+signal)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  Backend Developer · AI/ML Engineer <sub>(in progress 🔄)</sub>
+</p>
 
 <br>
 
-```
-manjil@kathmandu:~$ whoami
+### 🎓 Education
 
-  ML Engineer · Backend · Fintech
-  BSc CS & AI @ Birmingham City University
-  Intern @ Navya Advisors
-```
-
-<br>
-
-**today's log** &nbsp;·&nbsp; Jul 1
-
-- 🔨 PyTorch: Build a Complete Training Loop
-- 🧠 reading up on RAG.
+<table>
+  <tr>
+    <td>
+      <b>BSc (Hons) Computer Science & Artificial Intelligence</b><br>
+      Birmingham City University — via Sunway College Kathmandu
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<div align="center">
+### 📖 Currently Reading
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjil-budhathoki/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=00ff87)](https://github.com/manjil-budhathoki)
+Manhwa: [Chronicles of the Demon Faction](#)
+
+### 🧠 Currently Learning
+
+Course: Grokking Deep Learning — working through it chapter by chapter, one implementation project per lesson
+
+### 🛠️ Currently Building
+
+Project: Corrective RAG (CRAG) — extending my Enterprise Knowledge Assistant (RBAC-RAG) project with self-correcting retrieval
 
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jjlryu7fvcwu43xxg73o26i6sq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false&bar_color=00ff87&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jjlryu7fvcwu43xxg73o26i6sq&redirect=true)
+### Stack
 
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+</p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=00ff87&height=80&section=footer)
+<br>
+
+### Connect
+
+<p align="left">
+  <a href="mailto:your.email@example.com">Email</a> ·
+  <a href="https://linkedin.com/in/your-handle">LinkedIn</a> ·
+  <a href="https://your-portfolio.com">Portfolio</a>
+</p>
