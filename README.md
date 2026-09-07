@@ -49,7 +49,7 @@ Project: Corrective RAG (CRAG) — extending my Enterprise Knowledge Assistant (
 ### Connect
 
 <p align="left">
-  <a href="mailto:your.email@example.com">Email</a> ·
-  <a href="https://linkedin.com/in/your-handle">LinkedIn</a> ·
-  <a href="https://your-portfolio.com">Portfolio</a>
+  <a href="mailto:manjilbbudhathoki@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/manjil-budhathoki/">LinkedIn</a> ·
+  <a href="https://www.manjilbudhathoki.com.np/">Portfolio</a>
 </p>
