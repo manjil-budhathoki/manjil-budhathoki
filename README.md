@@ -1,55 +1,32 @@
-<h1 align="center">Hi, I'm Manjil 👋</h1>
+# Hi, I'm Manjil 👋
 
-<p align="center">
-  Backend Developer · AI/ML Engineer <sub>(in progress 🔄)</sub>
-</p>
+I'm a Computer Science and AI student in Kathmandu, Nepal. I build Python APIs, machine learning projects, and practical tools for problems I care about—especially document AI and applications for Nepal.
 
-<br>
+I enjoy taking a project beyond a notebook: preparing data, building an API, documenting how it works, and improving it based on what I learn.
 
-### 🎓 Education
+## Featured projects
 
-<table>
-  <tr>
-    <td>
-      <b>BSc (Hons) Computer Science & Artificial Intelligence</b><br>
-      Birmingham City University — via Sunway College Kathmandu
-    </td>
-  </tr>
-</table>
+- **[Paisa · Expense Tracker](https://github.com/manjil-budhathoki/expense-tracker)** — A full-stack expense and savings tracker built with React, FastAPI, and SQLAlchemy.
+- **[Online Shopper Predictor API](https://github.com/manjil-budhathoki/online-shopper-prediction-api)** — An end-to-end ML pipeline covering data processing, training, experiment tracking, and prediction through an API.
+- **[Synthetic DEMAT OCR Dataset Generator](https://github.com/manjil-budhathoki/synthetic-demat-ocr-dataset)** — Generates synthetic Nepali DEMAT documents and labels for OCR experiments.
+- **[Document Detection System](https://github.com/manjil-budhathoki/document-detection)** — Explores computer vision for detecting elements in identity and financial documents.
+- **[Nepal IPO Scraper](https://github.com/manjil-budhathoki/nepal-market-scraper)** — Collects and serves Nepal IPO data through a FastAPI service.
 
-<br>
+## What I'm working on
 
-### 📖 Currently Reading
+- Building more reliable backend services and ML pipelines
+- Exploring retrieval-augmented generation and document AI
+- Improving project documentation, testing, and deployment
 
-Manhwa: [Chronicles of the Demon Faction](#)
+## Tools I use
 
-### 🧠 Currently Learning
+**Languages:** Python, JavaScript, SQL  
+**Backend and ML:** FastAPI, PyTorch, scikit-learn, pandas  
+**Frontend:** React  
+**Other tools:** Docker, PostgreSQL, Git
 
-Course: Grokking Deep Learning — working through it chapter by chapter, one implementation project per lesson
+## Connect
 
-### 🛠️ Currently Building
-
-Project: Corrective RAG (CRAG) — extending my Enterprise Knowledge Assistant (RBAC-RAG) project with self-correcting retrieval
-
-<br>
-
-### Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-</p>
-
-<br>
-
-### Connect
-
-<p align="left">
-  <a href="mailto:manjilbbudhathoki@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/manjil-budhathoki/">LinkedIn</a> ·
-  <a href="https://www.manjilbudhathoki.com.np/">Portfolio</a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/manjil-budhathoki/)
+- [Portfolio](https://github.com/manjil-budhathoki/Manjil)
+- [Email](mailto:manjilbbudhathoki@gmail.com)
